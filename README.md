@@ -1,4 +1,4 @@
-# Demographic Income Classifier 🧠💸
+# Demographic Income Classifier
 A machine learning project that predicts whether an individual's income exceeds $50K based on demographic data.
 
 ## Overview
